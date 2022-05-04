@@ -1,0 +1,4 @@
+# Ignore everything other than c++-files
+!*.cc
+!Makefile
+!*.md
